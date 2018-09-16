@@ -2,4 +2,4 @@ Den ca con khi cung hieu lenh git
 add: dang ki thu trong index.
 pull: lay noi dung tu remote repository.
 commit: luu lai trang thai cua index.
-
+aaaaaa
